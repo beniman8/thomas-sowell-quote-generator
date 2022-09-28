@@ -1,4 +1,4 @@
-# thomas-sowell-quote-generator
+# Thomas-sowell-quote-generator
 This is a small python program that generates random quotes from thomas sowell one of my favorite writers
 
 We have about 782 quotes !!!!
