@@ -1,10 +1,15 @@
 # Thomas-sowell-quote-generator
+
+<img src="https://github.com/beniman8/thomas-sowell-quote-generator/blob/main/thomas_sowell_min.jpeg">
 This is a small python program that generates random quotes from thomas sowell one of my favorite writers
+
+
+
 
 We have about 782 quotes !!!!
 
 
-#How to run the program
+## How to run the program
 
 First thing is you need to create a virtual Environement.
 
