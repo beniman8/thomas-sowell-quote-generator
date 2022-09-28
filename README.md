@@ -1,4 +1,4 @@
-# Thomas-sowell-quote-generator
+# Thomas Sowell Quote Generator
 
 <img src="https://github.com/beniman8/thomas-sowell-quote-generator/blob/main/thomas_sowell_min.jpeg">
 This is a small python program that generates random quotes from thomas sowell one of my favorite writers
