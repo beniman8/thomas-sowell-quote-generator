@@ -7,7 +7,7 @@ data = pandas.read_csv('quotes.csv')
 english_only =[]
 for paragraph in data['text'].to_list():
 
-    if detect(paragraph) == 'en':
+    if detect(paragraph) == 'en' and len(paragraph)<700:
         english_only.append(paragraph)
 
 new_data = {
@@ -15,4 +15,4 @@ new_data = {
 }
 create_list = pandas.DataFrame(new_data)
 
-create_list.to_csv('thomas_sowell_quotes.csv',index=False)
+create_list.to_csv('thomas_sowell_quotes_short.csv',index=False)
